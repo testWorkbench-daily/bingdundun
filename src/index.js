@@ -15,7 +15,8 @@ ReactDOM.render(
     <CssBaseline />
     <ThemeProvider theme={theme}><App /></ThemeProvider>
     </StyledEngineProvider>
-    <p>声明：本文涉及奥运元素3D模型仅用于个人学习、研究和欣赏，请勿二次修改、非法传播、转载、出版、商用、及进行其他获利行为。</p>
+    <p>声明：本文涉及奥运元素3D模型仅用于个人学习、研究和欣赏，请勿二次修改、非法传播、转载、出版、商用、及进行其他获利行为。  源代码来自于网络：https://github.com/dragonir/3d/tree/master/src/containers/Olympic
+</p>
   </React.StrictMode>,
   document.getElementById('root')
 );
