@@ -11,4 +11,4 @@
 部署方式： 把build目录下的所有文件放到网站根目录就可以了
 
 
-如果下载慢，可以访问国内镜像仓库：https://gitee.com/dot2-com/bingdundun
+如果下载慢，可以访问国内镜像仓库：https://gitee.com/dot2-com/bingdundun# bingdundun
