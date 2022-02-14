@@ -15,6 +15,7 @@ ReactDOM.render(
     <CssBaseline />
     <ThemeProvider theme={theme}><App /></ThemeProvider>
     </StyledEngineProvider>
+    <p>声明：本文涉及奥运元素3D模型仅用于个人学习、研究和欣赏，请勿二次修改、非法传播、转载、出版、商用、及进行其他获利行为。</p>
   </React.StrictMode>,
   document.getElementById('root')
 );
